@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on <n/a><br>👯 I’m looking to collaborate on <QR Scanner xlsx/csv app><br>🤝 I’m looking for help with <API><br>🌱 I’m currently learning <Database integration> <br>💬 Ask me about <Nothing><br>⚡ Fun fact <Paul Newman once said>
+🔭 I’m currently working on <n/a><br> Fun fact <Paul Newman once said>
 
 
 ## 🌐 Socials:
