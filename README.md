@@ -5,7 +5,7 @@ FULL-STACK DEVELOPER
 🔭 I’m currently working on
 <ul>Mobile app development</ul>
 <ul>Website app development</ul>
-<ul>Python, Javascript, HTML, CSS, Typescript, Tailwind CSS, Pug, Expo Go, Swift, SDK, Mongodb, mySQL, expressJS, PHP,FLASK, Laragon</ul> 
+<ul>Python, Javascript, HTML, CSS, Typescript, Tailwind CSS, Pug, Expo Go, Swift, SDK, Mongodb, mySQL, expressJS, PHP,FLASK, Laragon, Apache, vanillaJS </ul> 
 
 IDE:
 <ul>VSCODE</ul>
