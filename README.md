@@ -7,11 +7,13 @@ FULL-STACK DEVELOPER
 <ul>Website app development</ul>
 <ul>Python, Javascript, HTML, CSS, Typescript, Tailwind CSS, Pug, Expo Go, Swift, SDK, Mongodb, mySQL, expressJS, PHP,FLASK, Laragon, Apache, vanillaJS </ul> 
 
-IDE:
+IDE + Extension used:
 <ul>VSCODE</ul>
 <ul>GITHUB</ul>
 <ul>GITBASH</ul>
 <ul>KILOCODE</ul>
+<ul>GIT GRAPH</ul>
+<ul>LIVE SERVER</ul>
 
 BROWSER: 
 <ul>PERPLEXCITY, CHROME, OPERA GX </ul> 
