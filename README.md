@@ -2,7 +2,40 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on <Something><br> Fun fact <Paul Newman once said>
+🔭 I’m currently working on
+<ul>Mobile app development</ul>
+<ul>Website app development</ul>
+<ul>Python, Javascript, HTML, CSS, Typescript, Tailwind CSS, Pug, Expo Go, Swift, SDK, Mongodb, mySQL, expressJS, PHP</ul>
+
+IDE:
+VSCODE
+
+GITHUB
+GITBASH
+
+KILOCODE
+
+BROWSER: 
+PERPLEXCITY, CHROME, OPERA GX 
+
+OS: 
+WINDOWS
+LINUX/OMARCHY
+
+Frequent used: 
+Python
+Javascript
+
+Complete project: 
+LEZY QR MAP GENERATOR (PYTHON/HTML/CSS/JS)
+
+Ongoing project (production):
+Website Streaming Provider (Wayang Seni Pujangga) HTML/CSS/JS..
+Virtual Live-feed Invitation Card (iMomento) ....
+Document Report Generator (Simply Me) ....
+Local Shop Order System (OderLok) Express.js/HTML/Pug
+
+
 
 
 ## 🌐 Socials:
