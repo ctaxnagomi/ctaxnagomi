@@ -1,5 +1,5 @@
 
-
+FULL-STACK DEVELOPER
 
 # 💫 About Me: Not and expert but just bare minimum 
 🔭 I’m currently working on
