@@ -1,39 +1,38 @@
 
 
 
-# 💫 About Me:
+# 💫 About Me: Not and expert but just bare minimum 
 🔭 I’m currently working on
 <ul>Mobile app development</ul>
 <ul>Website app development</ul>
-<ul>Python, Javascript, HTML, CSS, Typescript, Tailwind CSS, Pug, Expo Go, Swift, SDK, Mongodb, mySQL, expressJS, PHP</ul>
+<ul>Python, Javascript, HTML, CSS, Typescript, Tailwind CSS, Pug, Expo Go, Swift, SDK, Mongodb, mySQL, expressJS, PHP,FLASK, Laragon</ul> 
 
 IDE:
-VSCODE
-
-GITHUB
-GITBASH
-
-KILOCODE
+<ul>VSCODE</ul>
+<ul>GITHUB</ul>
+<ul>GITBASH</ul>
+<ul>KILOCODE</ul>
 
 BROWSER: 
-PERPLEXCITY, CHROME, OPERA GX 
+<ul>PERPLEXCITY, CHROME, OPERA GX </ul> 
 
 OS: 
-WINDOWS
-LINUX/OMARCHY
+<ul>WINDOWS</ul>
+<ul>LINUX/OMARCHY</ul>
 
 Frequent used: 
-Python
-Javascript
+<ul>Python</ul>
+<ul>Javascript</ul>
 
 Complete project: 
-LEZY QR MAP GENERATOR (PYTHON/HTML/CSS/JS)
+<ul>LEZY QR MAP GENERATOR (PYTHON/HTML/CSS/JS/FLASK) </ul>
 
 Ongoing project (production):
-Website Streaming Provider (Wayang Seni Pujangga) HTML/CSS/JS..
-Virtual Live-feed Invitation Card (iMomento) ....
-Document Report Generator (Simply Me) ....
-Local Shop Order System (OderLok) Express.js/HTML/Pug
+<ul>Website Streaming Provider (Wayang Seni Pujangga) HTML/CSS/JS.. </ul>
+<ul>Virtual Live-feed Invitation Card (iMomento) ....</ul>
+<ul>Document Report Generator (Simply Me) ....</ul>
+<ul>Local Shop Order System (OderLok) Express.js/HTML/Pug </ul>
+
 
 
 
