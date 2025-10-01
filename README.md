@@ -1,57 +1,103 @@
+<div align="center">
 
-FULL-STACK DEVELOPER
+# 👨‍💻 FULL-STACK DEVELOPER
 
-# 💫 About Me: Not and expert but just bare minimum 
-🔭 I’m currently working on
-<ul>Mobile app development</ul>
-<ul>Website app development</ul>
-<ul>Python, Javascript, HTML, CSS, Typescript, Tailwind CSS, Pug, Expo Go, Swift, SDK, Mongodb, mySQL, expressJS, PHP,FLASK, Laragon, Apache, vanillaJS </ul> 
+### 💫 About Me
+*Not an expert but just bare minimum*
 
-IDE + Extension used:
-<ul>VSCODE</ul>
-<ul>GITHUB</ul>
-<ul>GITBASH</ul>
-<ul>KILOCODE</ul>
-<ul>GIT GRAPH</ul>
-<ul>LIVE SERVER</ul>
+[![GitHub followers](https://img.shields.io/github/followers/ctaxnagomi?style=social)](https://github.com/ctaxnagomi)
 
-BROWSER: 
-<ul>PERPLEXCITY, CHROME, OPERA GX </ul> 
+</div>
 
-OS: 
-<ul>WINDOWS</ul>
-<ul>LINUX/OMARCHY</ul>
+---
 
-Frequent used: 
-<ul>Python</ul>
-<ul>Javascript</ul>
+## 🔭 Currently Working On
 
-Complete project: 
-<ul>LEZY QR MAP GENERATOR (PYTHON/HTML/CSS/JS/FLASK) </ul>
+- 📱 **Mobile App Development**
+- 🌐 **Website App Development**
 
-Ongoing project (production):
-<ul>Website Streaming Provider (Wayang Seni Pujangga) HTML/CSS/JS.. </ul>
-<ul>Virtual Live-feed Invitation Card (iMomento) ....</ul>
-<ul>Document Report Generator (Simply Me) ....</ul>
-<ul>Local Shop Order System (OderLok) Express.js/HTML/Pug </ul>
+---
 
+## 🛠️ Tech Stack
 
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+### Libraries & Tools
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Wan Mohd Azizi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Wan Mohd Azizi ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Wan Mohd Azizi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ctaxnagomi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ctaxnagomi) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/ctaxnagomi) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ctaxnagomi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ctaxnagomi) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ctaxnagomi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RikayuWilzam) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Rikayu Wilzam) 
+### Frequently Used
+- 🐍 **Python**
+- ⚡ **JavaScript**
 
-# 💻 Tech Stack:
-[Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) ! ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CTAXNAGOMI&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CTAXNAGOMI&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CTAXNAGOMI&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🧰 Development Environment
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/WanMohdAzizi) 
+### 💻 IDE & Extensions
+- ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) **VS Code**
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) **GitHub**
+- 🌿 **Git Bash**
+- 📊 **Git Graph**
+- 🔧 **Kilocode**
+- 🔴 **Live Server**
 
+### 🌐 Browsers
+- 🔍 **Perplexity**
+- 🌐 **Chrome**
+- 🎮 **Opera GX**
+
+### 🖥️ Operating Systems
+- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) **Windows**
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) **Linux/Omarchy**
+
+---
+
+## 🚀 Projects
+
+### ✅ Completed Projects
+
+#### 🗺️ **LEZY QR MAP GENERATOR**
+> Full-stack QR code and map generation tool
+- **Stack:** Python, HTML, CSS, JavaScript, Flask
+- **Status:** ✔️ Complete
+
+---
+
+### 🔨 Ongoing Projects (In Production)
+
+#### 📺 **Wayang Seni Pujangga**
+> Website Streaming Provider
+- **Stack:** HTML, CSS, JavaScript
+- **Status:** 🚧 In Development
+
+#### 💌 **iMomento**
+> Virtual Live-feed Invitation Card
+- **Status:** 🚧 In Development
+
+#### 📄 **Simply Me**
+> Document Report Generator
+- **Status:** 🚧 In Development
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect!
+
+*Always learning, always building* 🌱
+
+</div>
