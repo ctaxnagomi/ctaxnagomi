@@ -32,6 +32,7 @@
 - **Deployment:** **Netlify**
 - **Status:** ✔️ Complete
 - **Screenshot:** ![Lezy Web Benchmark Screenshot](./screenshots/lezy-web-benchmark.png)
+- **Deployment-Preview** Netlify (https://lezysolutions-webcodebenchmark-1.netlify.app/index.html)
 
 ---
 
