@@ -1,4 +1,5 @@
 👋 Hi, I’m Rikayu Wilzam (Wan Mohd Azizi)
+<img src="./profile-pic-2025" width="100%"/>
 
 💻 Fullstack Developer | AI Integrator | Open-Source Builder
 🌏 Based in Sarawak, Malaysia
@@ -110,9 +111,10 @@ For project-based contributions or collaborations, please contact me directly at
 💡 All donations directly support development, testing, and infrastructure for AI, automation, and creative tech projects.
 
 💵 Local Support (Malaysia)
-| Platform                       | Badge                                                                                                                                                            | Payment Link                                                                               | Notes                                 |
-| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------- |
-| **Touch ‘n Go (TNG Business)** | [![TNG](https://img.shields.io/badge/Touch’nGo%20Business-009FE3?style=flat\&logo=tngdigital\&logoColor=white)](https://payment.tngdigital.com.my/sc/bDLnQhnx4s) | [payment.tngdigital.com.my/sc/bDLnQhnx4s](https://payment.tngdigital.com.my/sc/bDLnQhnx4s) | Secure local business payment gateway |
+| Platform                       | Badge                                                                                                                                                            | Payment Link                                                                               | QR Codes                                                                                                                   |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| **Touch ‘n Go (TNG Business)** | [![TNG](https://img.shields.io/badge/Touch’nGo%20Business-009FE3?style=flat\&logo=tngdigital\&logoColor=white)](https://payment.tngdigital.com.my/sc/bDLnQhnx4s) | [payment.tngdigital.com.my/sc/bDLnQhnx4s](https://payment.tngdigital.com.my/sc/bDLnQhnx4s) | **Standard:** <img src="./qr-tng-standard.jpg" width="100"/><br>**DuitNow:** <img src="./qr-tng-duitnow.jpg" width="100"/> |
+
 
 
 
