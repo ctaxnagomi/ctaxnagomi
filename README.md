@@ -1,5 +1,6 @@
+<img src="./profile-pic-rikayuwilzam.webp" width="25%"/>
+
 👋 Hi, I’m Rikayu Wilzam (Wan Mohd Azizi)
-<img src="./profile-pic-2025" width="100%"/>
 
 💻 Fullstack Developer | AI Integrator | Open-Source Builder
 🌏 Based in Sarawak, Malaysia
@@ -99,21 +100,23 @@ For project-based contributions or collaborations, please contact me directly at
 📧 ctaxnagomi@gmail.com
 
 🌍 Crypto Contributions
-| Cryptocurrency     | Badge                                                                                                | Address                                                                                                   | QR Code                                       |
-| ------------------ | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| **Bitcoin (BTC)**  | ![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?style=flat\&logo=bitcoin\&logoColor=white)    | `bc1q65qjzvwyq2czumpy6tevtv2lgqvmvn3gh54ym7`                                                              | <img src="./qrcode-btc.jpg" width="100"/>     |
-| **Ethereum (ETH)** | ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat\&logo=ethereum\&logoColor=white) | `0xd5d0AF6c78F4E203C5121740a747E92F0E4C9e5f`                                                              | <img src="./qrcode-eth.jpg" width="100"/>     |
-| **XRP (Ripple)**   | ![XRP](https://img.shields.io/badge/XRP-25A768?style=flat\&logo=ripple\&logoColor=white)             | `rUYHZ71yXAS54ZQNvvooLX7rFtZydXjnP`                                                                       | <img src="./qrcode-xrp.jpg" width="100"/>     |
-| **Solana (SOL)**   | ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat\&logo=solana\&logoColor=white)       | `7hphP53qK9CVZUs2atFSDxmW6zD2PM7zLgryeCSPj9iH`                                                            | <img src="./qrcode-solana.jpg" width="100"/>  |
-| **Cardano (ADA)**  | ![Cardano](https://img.shields.io/badge/Cardano-0033AD?style=flat\&logo=cardano\&logoColor=white)    | `addr1qx6r76z06h4ynnsxavwla7jpzhn0wrjtg2wgx7mgm8xhhmwl5nvwe8r678glwy8wkv2tw6rdx624mhh4jhy2y6vd6hdqmc9l5a` | <img src="./qrcode-cardano.jpg" width="100"/> |
+| Cryptocurrency     | Badge                                                                                                | Address                                                                                                   | QR Code                                                                                               |
+| ------------------ | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| **Bitcoin (BTC)**  | ![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?style=flat\&logo=bitcoin\&logoColor=white)    | `bc1q65qjzvwyq2czumpy6tevtv2lgqvmvn3gh54ym7`                                                              | <details><summary>🟠 Show QR</summary><br><img src="./qrcode-btc.jpg" width="130"/><br></details>     |
+| **Ethereum (ETH)** | ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat\&logo=ethereum\&logoColor=white) | `0xd5d0AF6c78F4E203C5121740a747E92F0E4C9e5f`                                                              | <details><summary>🟣 Show QR</summary><br><img src="./qrcode-eth.jpg" width="130"/><br></details>     |
+| **XRP (Ripple)**   | ![XRP](https://img.shields.io/badge/XRP-25A768?style=flat\&logo=ripple\&logoColor=white)             | `rUYHZ71yXAS54ZQNvvooLX7rFtZydXjnP`                                                                       | <details><summary>💧 Show QR</summary><br><img src="./qrcode-xrp.jpg" width="130"/><br></details>     |
+| **Solana (SOL)**   | ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat\&logo=solana\&logoColor=white)       | `7hphP53qK9CVZUs2atFSDxmW6zD2PM7zLgryeCSPj9iH`                                                            | <details><summary>🌈 Show QR</summary><br><img src="./qrcode-solana.jpg" width="130"/><br></details>  |
+| **Cardano (ADA)**  | ![Cardano](https://img.shields.io/badge/Cardano-0033AD?style=flat\&logo=cardano\&logoColor=white)    | `addr1qx6r76z06h4ynnsxavwla7jpzhn0wrjtg2wgx7mgm8xhhmwl5nvwe8r678glwy8wkv2tw6rdx624mhh4jhy2y6vd6hdqmc9l5a` | <details><summary>🔵 Show QR</summary><br><img src="./qrcode-cardano.jpg" width="130"/><br></details> |
+
 
 
 💡 All donations directly support development, testing, and infrastructure for AI, automation, and creative tech projects.
 
 💵 Local Support (Malaysia)
-| Platform                       | Badge                                                                                                                                                            | Payment Link                                                                               | QR Codes                                                                                                                   |
-| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
-| **Touch ‘n Go (TNG Business)** | [![TNG](https://img.shields.io/badge/Touch’nGo%20Business-009FE3?style=flat\&logo=tngdigital\&logoColor=white)](https://payment.tngdigital.com.my/sc/bDLnQhnx4s) | [payment.tngdigital.com.my/sc/bDLnQhnx4s](https://payment.tngdigital.com.my/sc/bDLnQhnx4s) | **Standard:** <img src="./qr-tng-standard.jpg" width="100"/><br>**DuitNow:** <img src="./qr-tng-duitnow.jpg" width="100"/> |
+| Platform                       | Badge                                                                                                                                                            | Payment Link                                                                               | QR Codes                                                                                                                                                                                             |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Touch ‘n Go (TNG Business)** | [![TNG](https://img.shields.io/badge/Touch’nGo%20Business-009FE3?style=flat\&logo=tngdigital\&logoColor=white)](https://payment.tngdigital.com.my/sc/bDLnQhnx4s) | [payment.tngdigital.com.my/sc/bDLnQhnx4s](https://payment.tngdigital.com.my/sc/bDLnQhnx4s) | <details><summary>📲 Show QR Codes</summary><br>**Standard:** <br><img src="./qr-tng-standard.jpg" width="130"/><br><br>**DuitNow:** <br><img src="./qr-tng-duitnow.jpg" width="130"/><br></details> |
+
 
 
 
