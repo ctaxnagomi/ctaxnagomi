@@ -98,13 +98,14 @@ For project-based contributions or collaborations, please contact me directly at
 📧 ctaxnagomi@gmail.com
 
 🌍 Crypto Contributions
-| Platform / Crypto  | Badge                                                                                                | Address                                                                                                   | Notes                                             |
-| ------------------ | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| **Bitcoin (BTC)**  | ![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?style=flat\&logo=bitcoin\&logoColor=white)    | `bc1q65qjzvwyq2czumpy6tevtv2lgqvmvn3gh54ym7`                                                              | Supports AI & infrastructure costs                |
-| **Ethereum (ETH)** | ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat\&logo=ethereum\&logoColor=white) | `0xd5d0AF6c78F4E203C5121740a747E92F0E4C9e5f`                                                              | For LLM deployment & testing nodes                |
-| **XRP (Ripple)**   | ![XRP](https://img.shields.io/badge/XRP-25A768?style=flat\&logo=ripple\&logoColor=white)             | `rUYHZ71yXAS54ZQNvvooLX7rFtZydXjnP`                                                                       | Low-fee fast transfers                            |
-| **Solana (SOL)**   | ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat\&logo=solana\&logoColor=white)       | `7hphP53qK9CVZUs2atFSDxmW6zD2PM7zLgryeCSPj9iH`                                                            | Prototype hosting & LLM experimentation           |
-| **Cardano (ADA)**  | ![Cardano](https://img.shields.io/badge/Cardano-0033AD?style=flat\&logo=cardano\&logoColor=white)    | `addr1qx6r76z06h4ynnsxavwla7jpzhn0wrjtg2wgx7mgm8xhhmwl5nvwe8r678glwy8wkv2tw6rdx624mhh4jhy2y6vd6hdqmc9l5a` | Ecosystem research and language dataset expansion |
+| Cryptocurrency     | Badge                                                                                                | Address                                                                                                   | QR Code                                       |
+| ------------------ | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| **Bitcoin (BTC)**  | ![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?style=flat\&logo=bitcoin\&logoColor=white)    | `bc1q65qjzvwyq2czumpy6tevtv2lgqvmvn3gh54ym7`                                                              | <img src="./qrcode-btc.jpg" width="100"/>     |
+| **Ethereum (ETH)** | ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat\&logo=ethereum\&logoColor=white) | `0xd5d0AF6c78F4E203C5121740a747E92F0E4C9e5f`                                                              | <img src="./qrcode-eth.jpg" width="100"/>     |
+| **XRP (Ripple)**   | ![XRP](https://img.shields.io/badge/XRP-25A768?style=flat\&logo=ripple\&logoColor=white)             | `rUYHZ71yXAS54ZQNvvooLX7rFtZydXjnP`                                                                       | <img src="./qrcode-xrp.jpg" width="100"/>     |
+| **Solana (SOL)**   | ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat\&logo=solana\&logoColor=white)       | `7hphP53qK9CVZUs2atFSDxmW6zD2PM7zLgryeCSPj9iH`                                                            | <img src="./qrcode-solana.jpg" width="100"/>  |
+| **Cardano (ADA)**  | ![Cardano](https://img.shields.io/badge/Cardano-0033AD?style=flat\&logo=cardano\&logoColor=white)    | `addr1qx6r76z06h4ynnsxavwla7jpzhn0wrjtg2wgx7mgm8xhhmwl5nvwe8r678glwy8wkv2tw6rdx624mhh4jhy2y6vd6hdqmc9l5a` | <img src="./qrcode-cardano.jpg" width="100"/> |
+
 
 💡 All donations directly support development, testing, and infrastructure for AI, automation, and creative tech projects.
 
