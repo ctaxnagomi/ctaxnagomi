@@ -35,8 +35,7 @@ My workflow includes WSL Ubuntu with KDE Plasma and Codex CLI for rapid prototyp
 | **YAML / JSON**                 | Config & API integration       | ⭐⭐⭐⭐        |
 | **AI / LLM Prompt Engineering** | Hugging Face, Ollama, OpenAI   | ⭐⭐⭐⭐        |
 
-
-Consistent workflow across full-stack development and AI integration.
+Consistent workflow across full-stack development and AI integration. **Familiarity are based with tacit on hand durong "main-project & side- project developmet"**
 
 💻 IDE & Extensions
 
