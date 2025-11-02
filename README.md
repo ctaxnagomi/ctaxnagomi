@@ -18,9 +18,18 @@ My workflow includes WSL Ubuntu with KDE Plasma and Codex CLI for rapid prototyp
 | 🧠 **OpenAI Codex CLI**        | Core environment setup for code reasoning and AI workflow                                                                                                                                                                          |
 | 💬 **Ollama CLI + Cloud**      | Prototype of Sarawak Native Language LLM                                                                                                                                                                                           |
 | ☁️ **OpenRouter Cloud Models** | Multi-model selection without affecting local RAM: <br>• `deepseek-v3.1:671b-cloud` <br>• `gpt-oss:20b-cloud` <br>• `gpt-oss:120b-cloud` <br>• `kimi-k2:1t-cloud` <br>• `qwen3-coder:480b-cloud` <br>• `glm-4.6:cloud`             |
-| 🐧 **WSL Ubuntu + KDE Plasma** | Development base with UI customization                                                                                                                                                                                             |
-| 🤗 **Hugging Face CLI**        | Fine-tuning datasets and LLM training pipeline                                                                                                                                                                                     |
-| 🧩 **Dataset Methods**         | 3 data types:<br>1️⃣ English → Native<br>2️⃣ Malay → Native<br>3️⃣ (English/Malay) → Native (Audio Transcription, ≤7s)<br>Temperature-controlled by response style: Logic / Creativity / Analytic / Casual / Professional / Custom |
+|| 🐧 **WSL Ubuntu + KDE Plasma** | Development base with UI customization                                                                                                                                                                                             |
+|| ⚡ **Warp (Agent Mode)**       | Terminal + agentic development environment with project-scoped WARP.md, codebase indexing, and multi-file edits                                                                                                                    |
+|| 🤗 **Hugging Face CLI**        | Fine-tuning datasets and LLM training pipeline                                                                                                                                                                                     |
+|| 🧩 **Dataset Methods**         | 3 data types:<br>1️⃣ English → Native<br>2️⃣ Malay → Native<br>3️⃣ (English/Malay) → Native (Audio Transcription, ≤7s)<br>Temperature-controlled by response style: Logic / Creativity / Analytic / Casual / Professional / Custom |
+
+🧮 Quantization Profiles (local inference)
+
+|| Device Class | Recommended Quant | Typical VRAM/RAM | Example Use | Notes |
+|| ------------ | ----------------- | ---------------- | ----------- | ----- |
+|| High-end     | FP16 / GGUF Q8_0 / Q5_K_M | ≥32–64GB RAM or ≥16–24GB VRAM | 13B–70B (quantized) | Larger context (4k–32k); set num_ctx≈4096–8192; f16_kv=true |
+|| Mid-end      | GGUF Q4_K_M / Q5_K_M, GPTQ 4-bit | 16–32GB RAM or 8–12GB VRAM | 7B–13B | Balance perf/quality; num_ctx≈2048–4096 |
+|| Low-end      | GGUF Q3_K_M / Q4_0, AWQ/GPTQ 4-bit | 8–16GB RAM or iGPU | 3B–7B | Keep num_ctx≈1024–2048; prefer smaller vocab/rank |
 
 💡 Programming Language Proficiency
 
