@@ -21,7 +21,7 @@ My workflow includes WSL Ubuntu with KDE Plasma and Codex CLI for rapid prototyp
 || 🐧 **WSL Ubuntu + KDE Plasma** | Development base with UI customization                                                                                                                                                                                             |
 || ⚡ **Warp (Agent Mode)**       | Terminal + agentic development environment with project-scoped WARP.md, codebase indexing, and multi-file edits                                                                                                                    |
 || 🤗 **Hugging Face CLI**        | Fine-tuning datasets and LLM training pipeline                                                                                                                                                                                     |
-|| 🧩 **Dataset Methods**         | 3 data types:<br>1️⃣ English → Native<br>2️⃣ Malay → Native<br>3️⃣ (English/Malay) → Native (Audio Transcription, ≤7s)<br>Temperature-controlled by response style: Logic / Creativity / Analytic / Casual / Professional / Custom |
+|| 🧩 **Dataset Methods**         | 4 data types:<br>1️⃣ English → Native<br>2️⃣ Malay → Native<br>3️⃣ (English/Malay) → Native (Audio Transcription, ≤7s)<br>4️⃣ 2–5s Audio + Context: transcript snippet paired with surrounding context (speaker role, domain/topic, locale, intent, entities) to improve alignment efficiency in fine-tuning<br>Temperature-controlled by response style: Logic / Creativity / Analytic / Casual / Professional / Custom |
 
 🧮 Quantization Profiles (local inference)
 
