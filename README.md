@@ -27,15 +27,6 @@ My workflow includes WSL Ubuntu with KDE Plasma and Codex CLI for rapid prototyp
 
 ---
 
-
-🔨 **Ongoing Projects**
-
-*(Follows same format as sample {A} – included for completeness if needed; no ongoing listed in B-2, so omitted unless required.)*
-Device Class,Recommended Quant,Typical VRAM/RAM,Example Use,Notes
-High-end,FP16 / GGUF Q8_0 / Q5_K_M,≥32–64GB RAM or ≥16–24GB VRAM,13B–70B (quantized),Larger context (4k–32k); set num_ctx≈4096–8192; f16_kv=true
-Mid-end,"GGUF Q4_K_M / Q5_K_M, GPTQ 4-bit",16–32GB RAM or 8–12GB VRAM,7B–13B,Balance perf/quality; num_ctx≈2048–4096
-Low-end,"GGUF Q3_K_M / Q4_0, AWQ/GPTQ 4-bit",8–16GB RAM or iGPU,3B–7B,Keep num_ctx≈1024–2048; prefer smaller vocab/rank
-
 💡 Programming Language Proficiency
 
 | Language                        | Framework / Tool               | Familiarity |
@@ -49,14 +40,6 @@ Low-end,"GGUF Q3_K_M / Q4_0, AWQ/GPTQ 4-bit",8–16GB RAM or iGPU,3B–7B,Keep n
 | **YAML / JSON**                 | Config & API integration       | ⭐⭐⭐⭐        |
 | **AI / LLM Prompt Engineering** | Hugging Face, Ollama, OpenAI   | ⭐⭐⭐⭐        |
 
-┌─────────────────────────────────────┐
-│ Rikayu's WakaTime Stats             │
-├─────────────────────────────────────┤
-│ Python   ████████  42%   15h 30m    │
-│ JavaScript ██████  28%   10h 12m    │
-│ HTML/CSS ████  18%    6h 45m        │
-│ Others   ██   12%    4h 18m         │
-└─────────────────────────────────────┘
 
 Consistent workflow across full-stack development and AI integration. **Familiarity are based with tacit on hand durong "main-project & side- project developmet"**
 
