@@ -9,6 +9,9 @@
 ⚙️ Currently working on Sarawak Native Language LLM Prototype (via Ollama + Cloud)
 🧠 Passionate about AI tools, web systems, and language model integration
 
+Update: 
+Hybrid Agentic Workflow Ecosystem Integration | Machine Learning | Agentic AI | Applied AI Engineer (present)
+
 ---
 
 ⚙️ Current Work Environment
