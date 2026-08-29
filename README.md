@@ -1,7 +1,7 @@
 
 <img src="./profile-pic-rikayuwilzam.webp" width="25%" align="right" />
 
-## 👋 Hi, I’m Rikayu Wilzam (Wan Mohd Azizi)
+## 👋 Hi, I’m Rikayu Wilzam (Wan Mohd Azizi).
 
 
 💻 Fullstack Developer | AI Integrator | Open-Source Builder
