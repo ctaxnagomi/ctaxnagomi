@@ -67,7 +67,7 @@ I publish public datasets and models on Hugging Face to support agentic AI resea
 | [`kd-penzine-volumes`](https://huggingface.co/datasets/ctaxnagomi/kd-penzine-volumes) | KD Penzine volume index (8 monthly issues, 2026) |
 | [`kd-penzine-pages`](https://huggingface.co/datasets/ctaxnagomi/kd-penzine-pages) | KD Penzine full page corpus (89 markdown pages) |
 
-Spaces: [`KD Penzine`](https://huggingface.co/spaces/ctaxnagomi/kd-penzine) — a live, page-flipping demo of the KrackedDevs journal. Credit & home: [www.krackeddevs.com](https://www.krackeddevs.com).
+Spaces: [`KD Penzine`](https://huggingface.co/spaces/ctaxnagomi/kd-penzine) — an *unofficial, experimental* live page-flipping demo of the KrackedDevs journal (not an official KrackedDevs product). Credit & home: [www.krackeddevs.com](https://www.krackeddevs.com).
 
 Notable models: [`DGUI-Persona`](https://huggingface.co/ctaxnagomi/DGUI-Persona), [`DGUI-OSEngine`](https://huggingface.co/ctaxnagomi/DGUI-OSEngine), [`DGUI-Dsync`](https://huggingface.co/ctaxnagomi/DGUI-Dsync), [`DGUI-GatePredictor`](https://huggingface.co/ctaxnagomi/DGUI-GatePredictor).
 
