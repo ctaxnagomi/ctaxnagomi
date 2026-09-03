@@ -14,6 +14,29 @@ Hybrid Agentic Workflow Ecosystem Integration | Machine Learning | Agentic AI | 
 
 ---
 
+## 🏆 Featured Project — DeckerGUI
+
+**DeckerGUI** is my main project and primary focus: an agentic AI ecosystem for Malaysian businesses. It connects reasoning AI, tool orchestration, and browser automation in a single platform.
+
+**Live infrastructure:**
+| Service | URL |
+|---------|-----|
+| Main Site | `https://deckergui.my` |
+| KPI UI | `https://app.deckergui.my` |
+| Coordinator Hub | `https://hub.deckergui.my` |
+| Agent Server | `https://agent.deckergui.my` |
+| CORPUSLIB | `https://corpuslib-ui.deckergui.my` |
+| CTECX Portal | `https://ctecx.deckergui.my` |
+
+**Key capabilities:**
+- **30+ agent skills** for specialized tasks
+- **CORPUSLIB** — agentic corpus library (34 topics, HUB/INSTRUCT layers)
+- **Factory Missions** — multi-agent PR review & task delegation
+- **`dgui` CLI** — Go-based, cross-platform (bubbletea TUI, 25 tools, 4 LLM providers)
+- **Hugging Face** — 7 datasets, 11 models, 1 Space
+
+---
+
 ⚙️ Current Work Environment
 
 I’m currently developing a localized AI model for Sarawak’s native language using Hugging Face datasets, Ollama CLI, and OpenRouter cloud LLMs.
@@ -44,7 +67,7 @@ My workflow includes WSL Ubuntu with KDE Plasma and Codex CLI for rapid prototyp
 | **AI / LLM Prompt Engineering** | Hugging Face, Ollama, OpenAI   | ⭐⭐⭐⭐        |
 
 
-Consistent workflow across full-stack development and AI integration. **Familiarity are based with tacit on hand durong "main-project & side- project developmet"**
+Consistent workflow across full-stack development and AI integration. **Familiarity is based on hands-on experience during "main-project & side-project development".**
 
 💻 IDE & Extensions
 
@@ -108,12 +131,8 @@ Consistent workflow across full-stack development and AI integration. **Familiar
 | 🧾 **Portfolio 101**                            | Interactive developer portfolio site (React + Markdown + Animation effects)                       | React.js, Tailwind CSS, Framer Motion    | ⚙️ Development                             |
 | 📊 **Simpli Report Generator API’s**            | Lightweight REST API for generating structured reports in PDF/Docx/CSV formats                    | Python (Flask/FastAPI), OpenAI API       | ⚙️ Development                             |
 | 🔗 **MCP (Sarawak Native LLM Continuation)**    | API extension layer for integrating the Sarawak Native Model into web & app systems               | Hugging Face, FastAPI, Ollama Cloud      | ⚙️ Prototype Phase                         |
-| 🌀 **QRGGIF: AR-integrated Animated QR Auth**   | Authentication system that scans **animated .GIF QR codes** to trigger **AR-based interactions**. Built for **event ticketing and interactive media**. Integrates camera sensors with **GIF decoding + AR overlay triggers**. | React Native, Tkinter, MySQL, AR Engine, Netlify, Supabase | ⚙️ AR Integration & Authentication Phase || 
-
-  Project                                   | Description                                                                                                                                                                                                                                                                                     | Contact                                                                                                                                                                                      |
-| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🌐 **Ultimate Event 3D Interactive Page** | Concept project exploring a **3D immersive event platform** that integrates ticketing, AR/VR-based venue navigation, and real-time social interaction. <br><br> Intended as a **next-gen event engagement experience**, combining 3D visuals, interactive maps, and virtual attendance systems. | 💌 **Interested in funding or collaboration?** <br> 📧 [wan.mohd.azizi.seggaf@gmail.com](mailto:wan.mohd.azizi.seggaf@gmail.com) <br> 📧 [ctaxnagomi@gmail.com](mailto:ctaxnagomi@gmail.com) |
-| 🌀 **QRGGIF: AR-integrated Animated QR Auth System** | A hybrid **QR + AR** authentication project that fuses **animated .GIF QR codes** with **augmented reality triggers**. When scanned, the system verifies the GIF’s unique frame signature to **authenticate and project AR content**—ideal for event tickets, interactive media, and product experiences. | 💡 **Deployment:** Netlify <br> ⚙️ **Database:** Supabase + MySQL <br> 🧩 **Integration:** AR SDK + React Native Frontend |
+| 🌀 **QRGGIF: AR-integrated Animated QR Auth**   | AR authentication that scans **animated .GIF QR codes** to trigger **AR-based interactions** for event ticketing and interactive media. Verifies the GIF’s unique frame signature to authenticate and project AR content. | React Native, AR SDK, MySQL, Supabase, Netlify | ⚙️ AR Integration & Authentication Phase |
+| 🌐 **Ultimate Event 3D Interactive Page**       | Concept project exploring a **3D immersive event platform** that integrates ticketing, AR/VR-based venue navigation, and real-time social interaction — combining 3D visuals, interactive maps, and virtual attendance systems. | 3D Web, AR/VR, Node.js, React.js           | 💡 Concept / Seeking funding & collaboration |
 
 💰 Donations & Contributions
 
@@ -139,126 +158,3 @@ For project-based contributions or collaborations, please contact me directly at
 | Platform                       | Badge                                                                                                                                                            | Payment Link                                                                               | QR Codes                                                                                                                                                                                             |
 | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Touch ‘n Go (TNG Business)** | [![TNG](https://img.shields.io/badge/Touch’nGo%20Business-009FE3?style=flat\&logo=tngdigital\&logoColor=white)](https://payment.tngdigital.com.my/sc/bDLnQhnx4s) | [payment.tngdigital.com.my/sc/bDLnQhnx4s](https://payment.tngdigital.com.my/sc/bDLnQhnx4s) | <details><summary>📲 Show QR Codes</summary><br>**Standard:** <br><img src="./qr-tng-standard.jpg" width="130"/><br><br>**DuitNow:** <br><img src="./qr-tng-duitnow.jpg" width="130"/><br></details> |
-
-
-
-
-<div>
-
-
-
-</div>
-# CTECX — AI Agent Ecosystem
-
-**CTECX** is an agentic workflow ecosystem connecting reasoning AI, tool orchestration, and browser automation for Malaysian businesses.
-
-## Architecture
-
-```
-┌──────────────────────────────────────┐
-│         Big Pickle (LLM)             │
-│   Reasoning · Token Reduction · API  │
-├──────────────────────────────────────┤
-│      DGUI Ecosystem (Tools)          │
-│  Coordinator · CaaS · Seeds · KPI   │
-│  Matchmaking · Audit · Dashboard     │
-├──────────────────────────────────────┤
-│        CTAX-Ai (Runtime)             │
-│   Browser · Terminal · MCP Bridge    │
-└──────────────────────────────────────┘
-```
-
-## Tech Stack
-
-| Layer | Stack |
-|-------|-------|
-| Big Pickle | OpenAI-compatible API, token reduction via CaaS |
-| DGUI Ecosystem | Node.js, SQLite, SSE, Coordinator Hub |
-| CTAX-Ai | neo / puppeteer / playwright modes |
-
-## Live Infrastructure
-
-| Service | URL |
-|---------|-----|
-| Main Site | `https://deckergui.my` |
-| KPI UI | `https://app.deckergui.my` |
-| Coordinator Hub | `https://hub.deckergui.my` |
-| Agent Server | `https://agent.deckergui.my` |
-| CORPUSLIB | `https://corpuslib-ui.deckergui.my` |
-| CTECX Portal | `https://ctecx.deckergui.my` |
-
-## Key Features
-
-- **30+ agent skills** for specialized tasks
-- **CORPUSLIB** — Agentic corpus library (34 topics, HUB/INSTRUCT layers)
-- **Factory Missions** — Multi-agent PR review & task delegation
-- **Cross-platform CLI** — Go-based `dgui` CLI (bubbletea TUI, 25 tools, 4 LLM providers)
-- **Hugging Face** — 7 datasets, 11 models, 1 Space
-
-## Programming Languages
-
-| Language | Framework / Tool | Familiarity |
-| --- | --- | --- |
-| **HTML5** | Pug, Tailwind CSS | ⭐⭐⭐⭐ |
-| **CSS3** | Tailwind CSS | ⭐⭐⭐⭐ |
-| **JavaScript (ES6+)** | React.js, Express.js | ⭐⭐⭐⭐ |
-| **Python** | Flask, FastAPI | ⭐⭐⭐⭐ |
-| **Go** | Cobra CLI, Bubbletea TUI | ⭐⭐⭐ |
-| **Node.js** | REST API, SQLite | ⭐⭐⭐⭐ |
-| **AI / LLM** | Hugging Face, Ollama, OpenAI | ⭐⭐⭐⭐ |
-
-## Projects
-
-| Project | Description | Status |
-| --- | --- | --- |
-| **CTECX Ecosystem** | AI agent ecosystem — three-layer architecture for enterprise automation | In Production |
-| **Lezy QRCode Map** | QR code & map system for local shops | Complete |
-| **Login/Signup System** | Auth with OAuth2.0 via Supabase | Complete |
-| **Dynamic GIF Card** | Interactive card with GIF + video autoplay | Complete |
-| **E-Ticket System** | E-Ticket management with admin dashboard | Complete |
-| **Sarawak Native LLM** | Language model for Sarawak native dialects | Fine-tuning |
-| **Simpli Report API** | REST API for PDF/Docx/CSV reports | In Development |
-
-## Sarawak Native Language LLM
-
-Prototype for Sarawak native language using Hugging Face datasets, Ollama CLI, and OpenRouter cloud LLMs.
-
-### Dataset Methods
-
-1. English to Native
-2. Malay to Native
-3. (English/Malay) to Native (Audio Transcription, less than 7s)
-4. 2-5s Audio + Context: transcript snippet paired with surrounding context
-
-## Quantization Profiles (Local Inference)
-
-| Device | Quant | RAM | Model Size |
-| --- | --- | --- | --- |
-| High-end | FP16 / GGUF Q8_0 | 32GB+ | 13B-70B |
-| Mid-end | GGUF Q4_K_M | 16-32GB | 7B-13B |
-| Low-end | GGUF Q3_K_M | 8-16GB | 3B-7B |
-
-## Contact
-
-ctaxnagomi@gmail.com
-
-## Crypto Donations
-
-| Currency | Address |
-| --- | --- |
-| BTC | bc1q65qjzvwyq2czumpy6tevtv2lgqvmvn3gh54ym7 |
-| ETH | 0xd5d0AF6c78F4E203C5121740a747E92F0E4C9e5f |
-| SOL | 7hphP53qK9CVZUs2atFSDxmW6zD2PM7zLgryeCSPj9iH |
-| XRP | rUYHZ71yXAS54ZQNvvooLX7rFtZydXjnP |
-
-<details><summary>BTC QR</summary><img src="./qrcode-btc.jpg" width="130"/></details>
-<details><summary>ETH QR</summary><img src="./qrcode-eth.jpg" width="130"/></details>
-<details><summary>SOL QR</summary><img src="./qrcode-solana.jpg" width="130"/></details>
-
-## Local Support
-
-| Platform | Link |
-| --- | --- |
-| Touch n Go | payment.tngdigital.com.my/sc/bDLnQhnx4s |
-
-<details><summary>TNG QR</summary><img src="./qr-tng-standard.jpg" width="130"/><br><img src="./qr-tng-duitnow.jpg" width="130"/></details>
