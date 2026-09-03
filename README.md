@@ -12,7 +12,14 @@
 Update: 
 Hybrid Agentic Workflow Ecosystem Integration | Machine Learning | Agentic AI | Applied AI Engineer (present)
 
-<img src="./kdlogodev_badge.png" width="90" alt="KD" title="KD" align="left" />
+<p align="center">
+  <img src="./kdlogodev_badge.png" height="40" alt="KD" title="KD" />
+  <img src="./react_badge.png" height="40" alt="React" title="React" />
+  <img src="./typescript_badge.png" height="40" alt="TypeScript" title="TypeScript" />
+  <img src="./vite_logo_badge.png" height="40" alt="Vite" title="Vite" />
+  <img src="./tailwind_css_badge.png" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="./Cloudflare_Logowine_badge.png" height="40" alt="Cloudflare" title="Cloudflare" />
+</p>
 
 ---
 
