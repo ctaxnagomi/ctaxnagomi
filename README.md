@@ -12,6 +12,8 @@
 Update: 
 Hybrid Agentic Workflow Ecosystem Integration | Machine Learning | Agentic AI | Applied AI Engineer (present)
 
+<img src="./kdlogodev_badge.png" width="90" alt="KD" title="KD" align="left" />
+
 ---
 
 ## 🏆 Featured Project — DeckerGUI
