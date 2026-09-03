@@ -43,7 +43,7 @@ Hybrid Agentic Workflow Ecosystem Integration | Machine Learning | Agentic AI | 
 - **CORPUSLIB** — agentic corpus library (34 topics, HUB/INSTRUCT layers)
 - **Factory Missions** — multi-agent PR review & task delegation
 - **`dgui` CLI** — Go-based, cross-platform (bubbletea TUI, 25 tools, 4 LLM providers)
-- **Hugging Face** — [11 datasets](https://huggingface.co/ctaxnagomi?tab=datasets), [8 models](https://huggingface.co/ctaxnagomi?tab=models), [2 Spaces](https://huggingface.co/ctaxnagomi?tab=spaces)
+- **Hugging Face** — [13 datasets](https://huggingface.co/ctaxnagomi?tab=datasets), [8 models](https://huggingface.co/ctaxnagomi?tab=models), [3 Spaces](https://huggingface.co/ctaxnagomi?tab=spaces)
 
 ---
 
@@ -64,6 +64,10 @@ I publish public datasets and models on Hugging Face to support agentic AI resea
 | [`deckergui-whitepaper`](https://huggingface.co/datasets/ctaxnagomi/deckergui-whitepaper) | DeckerGUI whitepaper corpus |
 | [`claude-protein-binder-design-dgui-corpus`](https://huggingface.co/datasets/ctaxnagomi/claude-protein-binder-design-dgui-corpus) | Protein binder design corpus (DGUI) |
 | [`ebook_ctaxnagomim2_dataset`](https://huggingface.co/datasets/ctaxnagomi/ebook_ctaxnagomim2_dataset) | E-book / source-text dataset |
+| [`kd-penzine-volumes`](https://huggingface.co/datasets/ctaxnagomi/kd-penzine-volumes) | KD Penzine volume index (8 monthly issues, 2026) |
+| [`kd-penzine-pages`](https://huggingface.co/datasets/ctaxnagomi/kd-penzine-pages) | KD Penzine full page corpus (89 markdown pages) |
+
+Spaces: [`KD Penzine`](https://huggingface.co/spaces/ctaxnagomi/kd-penzine) — a live, page-flipping demo of the KrackedDevs journal. Credit & home: [www.krackeddevs.com](https://www.krackeddevs.com).
 
 Notable models: [`DGUI-Persona`](https://huggingface.co/ctaxnagomi/DGUI-Persona), [`DGUI-OSEngine`](https://huggingface.co/ctaxnagomi/DGUI-OSEngine), [`DGUI-Dsync`](https://huggingface.co/ctaxnagomi/DGUI-Dsync), [`DGUI-GatePredictor`](https://huggingface.co/ctaxnagomi/DGUI-GatePredictor).
 
