@@ -14,6 +14,7 @@ Hybrid Agentic Workflow Ecosystem Integration | Machine Learning | Agentic AI | 
 
 <p align="center">
   <img src="./kdlogodev_badge.png" height="40" alt="KD" title="KD" />
+  <img src="./ctecx_official_logo_01_badge.png" height="40" alt="CTECX" title="CTECX" />
   <img src="./react_badge.png" height="40" alt="React" title="React" />
   <img src="./typescript_badge.png" height="40" alt="TypeScript" title="TypeScript" />
   <img src="./vite_logo_badge.png" height="40" alt="Vite" title="Vite" />
