@@ -4,13 +4,10 @@
 ## 👋 Hi, I’m Rikayu Wilzam (Wan Mohd Azizi).
 
 
-💻 Fullstack Developer | AI Integrator | Open-Source Builder
+💻 Hybrid Agentic Workflow Ecosystem Integration | Machine Learning | Agentic AI (Agentic Pipeline Architecture) | Applied Agentic AI Engineer (present)
 🌏 Based in Sarawak, Malaysia
 ⚙️ Currently working on Sarawak Native Language LLM Prototype (via Ollama + Cloud)
-🧠 Passionate about AI tools, web systems, and language model integration
-
-Update: 
-Hybrid Agentic Workflow Ecosystem Integration | Machine Learning | Agentic AI | Applied AI Engineer (present)
+🧠 Passionate about Agentic AI, Machine Learning, Deep Learning, Space, Architecture, System Design, AI tools, web systems, and language model integration
 
 <p align="center">
   <img src="./kdlogodev_badge.png" height="40" alt="KD" title="KD" />
