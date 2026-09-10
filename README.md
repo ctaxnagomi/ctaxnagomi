@@ -23,7 +23,7 @@
 
 ## 🏆 Featured Project — DeckerGUI
 
-**DeckerGUI** is my main project and primary focus: an agentic AI ecosystem for Malaysian businesses. It connects reasoning AI, tool orchestration, and browser automation in a single platform.
+**DeckerGUI** is my main project and primary focus: an  unified agentic AI integration hybrid ecosystem for Enterprise (Human + AI Agents Workforce). It connects reasoning AI, tool orchestration, and browser automation in a single platform.
 
 **Live infrastructure:**
 | Service | URL |
