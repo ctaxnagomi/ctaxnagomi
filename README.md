@@ -1,12 +1,14 @@
 
 <img src="./profile-pic-rikayuwilzam.webp" width="25%" align="right" />
 
-## 👋 Hi, I’m Rikayu Wilzam (Wan Mohd Azizi).
+## 👋 Hi, Wan Mohd Azizi (ctaxnagomi).
 
 
-💻 Hybrid Agentic Workflow Ecosystem Integration | Machine Learning | Agentic AI (Agentic Pipeline Architecture) | Applied Agentic AI Engineer (present)
+💻 **Applied Agentic AI Engineer | Agentic Pipeline Architect**
+*Universal Agentic Execution Layer (UAEL) | Agentic Systems Architecture & Design | KD Ambassador*
+
 🌏 Based in Sarawak, Malaysia
-⚙️ Currently working on Sarawak Native Language LLM Prototype (via Ollama + Cloud)
+⚙️ Currently working on Sarawak Native Language LLM Prototype (via Ollama + Cloud) as personal project since 2022
 🧠 Passionate about Agentic AI, Machine Learning, Deep Learning, Space, Architecture, System Design, AI tools, web systems, and language model integration
 
 <p align="center">
